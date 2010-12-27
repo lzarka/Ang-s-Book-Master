@@ -1,0 +1,17 @@
+body {
+	font-family: arial, sans-serif;    
+    text-align: center;
+
+}
+
+#container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+	background-color: #E0EEEE;
+	border-top: 3px solid #36c;
+    font-size: x-large;
+}
+
